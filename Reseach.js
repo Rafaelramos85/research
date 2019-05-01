@@ -1,3 +1,5 @@
+<!DOCTYPE html> 
+
 <html>
 <head>
 hope this works 
