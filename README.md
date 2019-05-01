@@ -1,12 +1,6 @@
 # Research 
 
 <html>
-  <link rel= " html code " href= "Reseach.js">
-  
-  
-  <body>
-  just to see if it works 
-  </body>
-  
+  <a href= "Reseach.js">
   
   </html>
