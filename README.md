@@ -1,17 +1,6 @@
 # research 
 
 <html>
-  <head>
-  <h2> Active Repositories </h1>
-  </head>
- <body>
-    
-    For my reseach topic I wanted to 
+  <link rel= " html code " href= "research.js">
   
- </body>
-  
-  
-  
-  
-  
-</html>
+  </html>
