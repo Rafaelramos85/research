@@ -1,4 +1,22 @@
+
 body {
-        background-color: blue;
-        }
-        
+    background-color: black;
+    color: white;
+    font-family: "Times New Roman",Times, serif ;
+    letter-spacing: 0.5px;
+}
+h2{
+    text-align: center;
+}
+
+
+body>div {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 9px solid gray;
+    border-style: solid;
+    border-color: grey;
+    
+  
+}
