@@ -1,22 +1,23 @@
 
+
 body {
     background-color: black;
-    color: white;
-    font-family: "Times New Roman",Times, serif ;
-    letter-spacing: 0.5px;
+    color: lightgray;
+    font-family: arial, helvetica, sans-serif;;
+    letter-spacing: 1px;
+    text-align: justify;
 }
 h2{
     text-align: center;
 }
 
-
-body>div {
+div{
     text-align: center;
     margin: 20px;
     padding: 10px;
-    border: 9px solid gray;
-    border-style: solid;
-    border-color: grey;
+    border: 9px inset gray;
+    
+    
     
   
 }
