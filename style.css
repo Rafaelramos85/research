@@ -15,9 +15,10 @@ div{
     text-align: center;
     margin: 20px;
     padding: 10px;
-    border: 9px inset gray;
+    border: 9px inset gray;     
+}
+
+img {
     
-    
-    
-  
+    width: 100%;
 }
