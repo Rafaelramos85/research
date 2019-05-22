@@ -18,4 +18,10 @@ div{
     border: 9px inset gray;     
 }
 
+img {
+    
+    height:auto;
+    max-width: 100%;
+}
+
 
