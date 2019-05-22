@@ -32,3 +32,8 @@ a:hover, a:active {
     background-color: rgb(120,120,120);
     color: white;
 }
+
+img{
+    height:auto;
+    max-width: 100%;
+}
